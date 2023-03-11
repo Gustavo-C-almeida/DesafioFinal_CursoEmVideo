@@ -1,0 +1,45 @@
+body{
+    background: rgb(70, 142, 236);
+    font: normal 15pt arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px black;
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+input{
+    margin-right: 10px;;
+    margin-bottom: 10px;
+    font-size: 17px;
+    width: 100px;
+}
+#res{
+    text-align: justify;
+}
+#input{
+    margin: 15px auto;
+}
+select{
+    font-size: 15px;
+    width: 180px;
+    height: 24px;
+}
+#add{
+    background-color: rgb(253, 255, 111);
+}
+#end{
+    background-color: rgb(143, 255, 125);
+}
