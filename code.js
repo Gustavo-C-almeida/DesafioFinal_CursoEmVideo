@@ -70,7 +70,6 @@ function Finalizar(){
      else{
     resE.innerHTML = ("")
     resE.innerHTML += ("O total de números inserido é: "+v.length+" <br> A soma de todos os números é: "+sum+" <br> O maior número encontrado é: "+big+" <br> O menor número encontrado é: "+small+" <br> A média dos números é: "+(sum/v.length).toFixed(2))
-    contConfirm++
     }
 }
 //O botão limpar fará o recarregamento da página e todos os dados inseridos serão apagados:
